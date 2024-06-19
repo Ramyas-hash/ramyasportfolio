@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e187c451.css",
+    "main.js": "/static/js/main.59fd4769.js",
+    "static/media/bgi.avif": "/static/media/bgi.6446d7ddfba39be0bfad.avif",
+    "static/media/bg11.avif": "/static/media/bg11.715ba6556b9bf0b14eb2.avif",
+    "static/media/booking.png": "/static/media/booking.afb2580017fcd423b1d5.png",
+    "static/media/Ramya.pdf": "/static/media/Ramya.8ad02fe9918934c284f3.pdf",
+    "static/media/rock insurance.jpg": "/static/media/rock insurance.902da045339365d64721.jpg",
+    "static/media/search.png": "/static/media/search.3cb9c718e507b6eddac0.png",
+    "static/media/cdimg.jpg": "/static/media/cdimg.bb330bb593971752cb55.jpg",
+    "static/media/bg10.avif": "/static/media/bg10.1086aa3eb66bc4bfd864.avif",
+    "static/media/rm.png": "/static/media/rm.5ceb98f9c6ac7114e8ee.png",
+    "static/media/dashboard.jpg": "/static/media/dashboard.d39eec9470fcebcac8c9.jpg",
+    "static/media/img5.png": "/static/media/img5.eb2409c807bbdacf95dd.png",
+    "static/media/bg9.avif": "/static/media/bg9.75ae767909bd87ae49b4.avif",
+    "index.html": "/index.html",
+    "main.e187c451.css.map": "/static/css/main.e187c451.css.map",
+    "main.59fd4769.js.map": "/static/js/main.59fd4769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e187c451.css",
+    "static/js/main.59fd4769.js"
+  ]
+}
